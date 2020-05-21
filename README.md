@@ -1,2 +1,2 @@
 # Visualization
-Visualization for pandas from the udacity course
+Visualization with matplotlib and seaborn from the udacity course 
